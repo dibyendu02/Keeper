@@ -4,11 +4,11 @@
 <br />
 <div align="center">
 
-  <a href="https://github.com/sarkartanmay393/CryptoConvert">
-    <img src="./public/contacts.png" alt="Logo" width="92" height="92">
+  <a href="https://github.com/dibyendu02/Keeper">
+    <img src="./Frontend/public/contacts.png" alt="Logo" width="92" height="92">
   </a>
 
-<h3 align="center">CryptoConvert</h3>
+<h3 align="center">Keeper</h3>
 
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -16,16 +16,16 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-   A web application that allows users to convert amounts from different cryptocurrencies to fiat currencies
+   A web platform to store all your contacts with the ease to call or whatsapp on one tap.
    <br />
-   <a href="https://github.com/sarkartanmay393/CryptoConvert"><strong>Explore Code »</strong></a>
+   <a href="https://github.com/dibyendu02/keeper"><strong>Explore Code »</strong></a>
    <br />
    <br />
-   <a href="https://cryptoconvert.vercel.app/" target="_blank" rel="noopener noreferrer" >View Demo</a>
+   <a href="https://keeperlive.vercel.app/" target="_blank" rel="noopener noreferrer" >View Demo</a>
    ·
-   <a href="https://github.com/sarkartanmay393/CryptoConvert/issues">Report Bug</a>
+   <a href="https://github.com/dibyendu02/keeper/issues">Report Bug</a>
    ·
-   <a href="https://github.com/sarkartanmay393/CryptoConvert/
+   <a href="https://github.com/dibyendu02/keeper/
 issues">Request Feature</a>
  </p>
 </div>
@@ -69,23 +69,22 @@ CryptoConvert is a web application that enables users to convert amounts various
 
 ### Features
 
-- Select a source cryptocurrency from a list of top 100 cryptocurrencies.
-- Input the amount to be converted.
-- Choose the target currency (USD, EUR, etc.).
-- View the converted amount instantly.
+- Create, Delete, Update a contact with Name, Phone number and Email Id.
+- Directly forward to dialing screen on one tap.
+- Directly forward to whatsapp chat.
+- Write an email on just a click.
 
 ### Technologies Used
 
 - **Backend**: Node.js, Express.js
 - **Frontend**: React
-- **API**: Coinmarketcap (for fetching real-time exchange rates)
 
 ## Folder Structure
 
 The project follows a structured organization with separate backend and frontend directories:
 
-- `backend/`: Contains the Node.js backend.
-- `frontend/`: Contains the React frontend.
+- `Backend/`: Contains the Node.js backend.
+- `Frontend/`: Contains the React frontend.
 
 <!-- ### Packages I Used
 
@@ -99,7 +98,7 @@ The project follows a structured organization with separate backend and frontend
 
 ### Screenshots
 
-<details>
+<!-- <details>
    <summary><strong>Show</strong> </summary>
 
   <div style="text-align: center;"> <strong><i>Mobile View</i></strong></div>
@@ -110,7 +109,7 @@ The project follows a structured organization with separate backend and frontend
 
 ![Desktop View](screenshots/desktop.png "Desktop View")
 
-</details>
+</details> -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,20 +130,20 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sarkartanmay393/--.git
+   git clone https://github.com/dibyendu02/Keeper.git
    ```
 
 2. Run both command separately to setup the codebase:
 
    ```bash
-   cd backend && pnpm install && pnpm run dev
+   cd Backend && npm install && npm run dev
    ```
 
    ```bash
-   cd frontend && pnpm install && pnpm run dev
+   cd Frontend && npm install && npm start
    ```
 
-- or Use Docker Compose
+<!-- - or Use Docker Compose
 
   ```bash
   docker compose up
@@ -159,7 +158,7 @@ To run the application locally, follow these steps:
 
 <br />
 
-> If any issue occured ...
+> If any issue occured ... -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,14 +195,14 @@ Project Link: [https://github.com/sarkartanmay393/CryptoConvert](https://github.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/sarkartanmay393/CryptoConvert.svg?style=for-the-badge
-[forks-url]: https://github.com/sarkartanmay393/CryptoConvert/network/members
-[stars-shield]: https://img.shields.io/github/stars/sarkartanmay393/CryptoConvert.svg?style=for-the-badge
-[stars-url]: https://github.com/sarkartanmay393/CryptoConvert/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sarkartanmay393/CryptoConvert.svg?style=for-the-badge
-[issues-url]: https://github.com/sarkartanmay393/CryptoConvert/issues
+[forks-shield]: https://img.shields.io/github/forks/dibyendu02/keeper?style=for-the-badge
+[forks-url]: https://github.com/dibyendu02/keeper/fork
+[stars-shield]: https://img.shields.io/github/stars/dibyendu02/keeper?style=for-the-badge
+[stars-url]: https://github.com/dibyendu02/keeper/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dibyendu02/keeper?style=for-the-badge
+[issues-url]: https://github.com/dibyendu02/keeper/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/tanmaysrkr
+[linkedin-url]: https://linkedin.com/in/dibyendu02
 [React.dev]: https://img.shields.io/badge/React-2496ed?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://www.docker.com/
 [Express.com]: https://img.shields.io/badge/Express-2496ed?style=for-the-badge&logo=express&logoColor=white
