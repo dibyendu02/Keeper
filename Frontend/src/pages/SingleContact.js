@@ -6,6 +6,7 @@ import user from "../user.jpg";
 import { URL } from "../App";
 import { FaWhatsapp } from "react-icons/fa";
 import { IoCall } from "react-icons/io5";
+import { MdEmail } from "react-icons/md";
 import Layout from "../components/Layout";
 
 const SingleContact = () => {
@@ -173,6 +174,13 @@ const SingleContact = () => {
           >
             <IoCall size={20} />
             <h1>Call</h1>
+          </a>
+          <a
+            href={`mailto:${contact.email}`}
+            className="bg-blue-600 text-white w-80 p-3 flex justify-center items-center gap-2 rounded-md "
+          >
+            <MdEmail size={20} />
+            <h1>Email</h1>
           </a>
         </div>
 
