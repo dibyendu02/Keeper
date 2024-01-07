@@ -98,18 +98,18 @@ The project follows a structured organization with separate backend and frontend
 
 ### Screenshots
 
-<!-- <details>
+<details>
    <summary><strong>Show</strong> </summary>
 
-  <div style="text-align: center;"> <strong><i>Mobile View</i></strong></div>
+  <div style="text-align: center;"> <strong><i>Contact Page</i></strong></div>
 
-![Mobile View](screenshots/phone.png "Mobile View")
+![Mobile View](screenshots/keepr1.jpg "Contact Page")
 
-  <div style="text-align: center;"> <strong><i>Desktop View</i></strong></div>
+  <div style="text-align: center;"> <strong><i>Home Page</i></strong></div>
 
-![Desktop View](screenshots/desktop.png "Desktop View")
+![Desktop View](screenshots/keeper2.jpg "Home Page")
 
-</details> -->
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
