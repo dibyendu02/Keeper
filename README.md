@@ -178,15 +178,15 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 6. Wait for review
 
-See the [open issues](https://github.com/sarkartanmay393/CryptoConvert/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/dibyendu02/Keeper/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - Tanmay Sarkar [@sarkartanmay393](https://twitter.com/sarkartanmay393) - [sarkartanmay393@gmail.com](mailto:sarkartanmay393@gmail.com)
+Your Name - Dibyendu Das [@dibyendu02](https://twitter.com/dasdibyenduu) - [get2dibyendu@gmail.com](mailto:get2dibyendu@gmail.com)
 
-Project Link: [https://github.com/sarkartanmay393/CryptoConvert](https://github.com/sarkartanmay393/CryptoConvert)
+Project Link: [https://github.com/dibyendu02/Keeper](https://github.com/dibyendu02/Keeper)
 
 **Thanks for visiting my project. If you like it, please give it a star. It will help me a lot. Thanks again!**
 
@@ -195,12 +195,12 @@ Project Link: [https://github.com/sarkartanmay393/CryptoConvert](https://github.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/dibyendu02/keeper?style=for-the-badge
-[forks-url]: https://github.com/dibyendu02/keeper/fork
-[stars-shield]: https://img.shields.io/github/stars/dibyendu02/keeper?style=for-the-badge
-[stars-url]: https://github.com/dibyendu02/keeper/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dibyendu02/keeper?style=for-the-badge
-[issues-url]: https://github.com/dibyendu02/keeper/issues
+[forks-shield]: https://img.shields.io/github/forks/dibyendu02/Keeper?style=for-the-badge
+[forks-url]: https://github.com/dibyendu02/Keeper/fork
+[stars-shield]: https://img.shields.io/github/stars/dibyendu02/Keeper?style=for-the-badge
+[stars-url]: https://github.com/dibyendu02/Keeper/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dibyendu02/Keeper?style=for-the-badge
+[issues-url]: https://github.com/dibyendu02/Keeper/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/dibyendu02
 [React.dev]: https://img.shields.io/badge/React-2496ed?style=for-the-badge&logo=react&logoColor=white
