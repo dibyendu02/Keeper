@@ -101,13 +101,13 @@ The project follows a structured organization with separate backend and frontend
 <details>
    <summary><strong>Show</strong> </summary>
 
-  <div style="text-align: center;"> <strong><i>Contact Page</i></strong></div>
-
-![Mobile View](screenshots/keepr1.jpg "Contact Page")
-
   <div style="text-align: center;"> <strong><i>Home Page</i></strong></div>
 
-![Desktop View](screenshots/keeper2.jpg "Home Page")
+![Mobile View](screenshots/keeper1.png "Home Page")
+
+  <div style="text-align: center;"> <strong><i>Contact Page</i></strong></div>
+
+![Desktop View](screenshots/keeper2.png "Contact Page")
 
 </details>
 
